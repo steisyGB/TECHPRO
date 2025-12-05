@@ -4,6 +4,7 @@ import Features from './components/Features.jsx'
 import Gallery from './components/Gallery.jsx'
 import Pricing from './components/Pricing.jsx'
 import Testimonials from './components/Testimonials.jsx'
+import FAQ from './components/FAQ.jsx'
 import Footer from './components/Footer.jsx'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
       <Gallery />
       <Pricing />
       <Testimonials />
+      <FAQ />
       <Footer />
     </div>
   )
